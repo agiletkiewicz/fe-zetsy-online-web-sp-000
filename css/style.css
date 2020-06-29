@@ -51,5 +51,5 @@ header > img {
 }
 
 footer {
-  align-content: right;
+ float: right;
 }
