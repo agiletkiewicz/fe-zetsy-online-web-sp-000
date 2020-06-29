@@ -49,3 +49,7 @@ header > img {
 .press img {
   border: 5px solid rgb(197,197,197);
 }
+
+footer {
+  align-content: right;
+}
