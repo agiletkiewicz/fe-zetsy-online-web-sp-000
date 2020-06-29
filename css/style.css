@@ -55,6 +55,10 @@ p {
   color: 	#696969;
 }
 
+a {
+  text-decoration: none;
+}
+
 footer {
  text-align: right;
  font-size: 13px;
