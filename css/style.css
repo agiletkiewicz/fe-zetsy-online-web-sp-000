@@ -30,6 +30,10 @@ h1 {
   font-size: 100px;
 }
 
+hr {
+  color: gray;
+}
+
 header > img {
   border: 5px solid #8BA1A4;
 }
